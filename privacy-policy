@@ -1,62 +1,70 @@
 Privacy Policy for DailyCash Book - Offline
-Last Updated: April 16, 2026
+**Last Updated:** April 16, 2026
+
 Developer: RathiSoft Innovation
-website: www.rathisoft.com
+Website: https://rathisoft.com
 Contact Email: info@rathisoft.com
-App Name: DailyCash Book - Offline
-Package Name: com.rathisoft.dailycash
+App Name:** DailyCash Book - Offline
+Package Name:** com.rathisoft.dailycash
+
 1. Introduction
-Welcome to DailyCash Book - Offline ("App"). This Privacy Policy explains how we handle your information when you use our mobile application. By using this App, you agree to the collection and use of information in accordance with this policy.
-2. Information Collection and Use
-We DO NOT collect, store, or share any personal information.
-DailyCash Book - Offline is a 100% offline application that works entirely on your device. All data you enter (expenses, income, transactions) is stored locally on your device only and is never transmitted to our servers or shared with any third parties.
-3. Data Storage
-Local Storage Only: All your financial data, transactions, and records are stored locally on your device's internal storage
-No Cloud Sync: We do not upload, backup, or sync your data to any cloud servers
-No Internet Required: The app functions completely offline without requiring an internet connection
-Your Data, Your Control: You have complete control over your data. You can export, delete, or backup your data at any time
-4. Permissions
-The app may request the following permissions:
-Storage Permission (READ/WRITE_EXTERNAL_STORAGE)
-Purpose: To save and export your cash book data, reports, and backups to your device storage
-Usage: Only used when you choose to export or backup your data
-Data Access: Limited to app-specific folders only
-Other Permissions
-No other permissions are required for core app functionality
-5. Third-Party Services
-We do NOT use any third-party services that collect data:
-❌ No Analytics SDKs (Google Analytics, Firebase, etc.)
-❌ No Advertising Networks (AdMob, Facebook Ads, etc.)
-❌ No Crash Reporting Tools
-❌ No Social Media Integration
-6. Children's Privacy
-Our App is a general-purpose financial tool and does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-7. Data Security
+Welcome to *DailyCash Book - Offline* ("App"). This Privacy Policy explains how we handle your information when you use our mobile application. By using this App, you agree to the terms of this Privacy Policy.
+We are committed to building privacy-first applications and ensuring that your data remains सुरक्षित and under your control at all times.
+### 2. Information Collection and Use
+We do **not collect, store, or transmit any personal data** to our servers.
+DailyCash Book - Offline is designed as a **fully offline application**. All data you enter, including expenses, income, and transaction records, remains stored **only on your device**.
+* No personal data is collected
+* No data is transmitted over the internet
+* No background data collection takes place
+### 3. Data Storage
+* **Local Storage Only:** All data is محفوظ on your device’s internal storage
+* **No Cloud Sync:** We do not upload or sync your data to any servers
+* **Offline Functionality:** The app works completely without an internet connection
+* **User Control:** You can export, backup, or delete your data at any time using app features
+### 4. Permissions
+The app may request the following permission:
+**Storage Permission**
+* Purpose: To allow users to export, save, or backup their financial records
+* Usage: Only activated when the user performs export or backup actions
+* Access Scope: Limited to app-specific files only
+On newer Android versions, the app uses **scoped storage access** in compliance with Android platform policies.
+No other permissions are required for the core functionality of the app.
+### 5. Third-Party Services
+We do **not use any third-party services** that collect or process user data.
+* No Analytics tools (e.g., Firebase, Google Analytics)
+* No Advertising networks (e.g., AdMob, Facebook Ads)
+* No crash reporting tools
+* No social media integrations
+### 6. Children’s Privacy
+This App is intended for general use and is not specifically directed toward children under the age of 13.
+We do not knowingly collect any personal information from children. If we become aware that a child under 13 has provided any information, we will take immediate steps to delete such information.
+### 7. Data Security
 Since all data is stored locally on your device:
-We implement no server-side security measures (as there are no servers)
-Your device's security (PIN, pattern, fingerprint) protects your data
-We recommend regularly backing up your data using the app's export feature
-8. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by:
-Updating the "Last Updated" date at the top of this policy
-Posting the new Privacy Policy on this page
-For significant changes, we may notify you through the app
-You are advised to review this Privacy Policy periodically for any changes.
-9. Contact Us
-If you have any questions about this Privacy Policy, please contact us:
-Developer: RathiSoft Innovation
-Email: info@rathisoft.com
-website: www.rathisoft.com
+* No data is stored on external servers
+* No data transmission occurs
+* Your device’s security (PIN, password, or biometric lock) protects your data
+We recommend that users regularly create backups using the app’s export feature for additional safety.
+### 8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be communicated by:
+* Updating the "Last Updated" date
+* Publishing the updated policy within the app or on our website
+You are encouraged to review this Privacy Policy periodically.
+### 9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us:
+**Developer:** RathiSoft Innovation
+**Email:** [info@rathisoft.com](mailto:info@rathisoft.com)
+**Website:** https://rathisoft.com
 10. Consent
-By using our App, you hereby consent to our Privacy Policy and agree to its terms.
-11. Google Play Store Compliance
-This Privacy Policy is designed to comply with:
-Google Play Developer Program Policies
-Google Play Data Safety Section Requirements
-Applicable data protection laws
-Data Safety Declaration:
-Data Collected: None
-Data Shared: None
-Data Encrypted: Not applicable (no data transmission)
-Can Request Data Deletion: Yes (by uninstalling the app or clearing app data)
+By using this App, you consent to this Privacy Policy and agree to its terms.
+### 11. Google Play Compliance & Data Safety
+This Privacy Policy complies with:
+* Google Play Developer Program Policies
+* Google Play Data Safety Requirements
+* Applicable data protection standards
+**Data Safety Summary:**
+* Data Collected: None
+* Data Shared: None
+* Data Transmission: None
+* Data Encryption: Not applicable (no data transmission)
+* Data Deletion: Users can delete all data by clearing app data or uninstalling the app
 End of Privacy Policy
